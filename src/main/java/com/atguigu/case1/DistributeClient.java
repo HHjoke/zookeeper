@@ -7,7 +7,7 @@ import org.apache.zookeeper.ZooKeeper;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-//cscccmasethotfixcs
+//cscccmasethotfixcssc
 public class DistributeClient {
 
     private static String connectString =
